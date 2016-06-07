@@ -1,1 +1,1 @@
-"# mips-pipeline" 
+MIPS Pipeline written in verilog, built to be simulated and synthesized using Xilinx Vivado
